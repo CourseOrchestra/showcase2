@@ -1,7 +1,7 @@
 {
   "name": "showcase2",
   "author": "CourseIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "showcase2",
   "license": "GNU GENERAL PUBLIC LICENSE, Version 3",
   "repository": {
@@ -42,5 +42,9 @@
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
-  }
+  },
+  "directories": {
+    "lib": "."
+  },
+  "main": "./index.js"
 }
