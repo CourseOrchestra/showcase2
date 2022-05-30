@@ -1,4 +1,4 @@
-import PlatformEmblem from "@/components/PlatformEmblem.vue";
+import PlatformEmblem from "./src/components/PlatformEmblem.vue";
 
 export const showcase2 = {
   install(Vue) {
