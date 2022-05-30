@@ -1,6 +1,6 @@
 import PlatformEmblem from "@/components/PlatformEmblem.vue";
 
-export const Emblem = {
+export const showcase2 = {
   install(Vue) {
     Vue.component("PlatformEmblem", PlatformEmblem);
   },
