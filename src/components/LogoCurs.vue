@@ -1,16 +1,16 @@
 <template>
   <a
     style="display: block; width: 200px"
-    href="https://share.curs.ru/platformcourse/doc/1/general.html"
+    href="http://www.curs.ru"
     target="_blank"
   >
-    <v-img :src="require('../assets/kurs.png')" />
+    <v-img :src="require('../assets/logo-curs.png')" />
   </a>
 </template>
 
 <script>
 export default {
-  name: "PlatformEmblem",
+  name: "LogoCurs",
 
   data: () => ({}),
 };

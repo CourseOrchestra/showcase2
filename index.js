@@ -1,9 +1,9 @@
-import PlatformEmblem from "./src/components/PlatformEmblem.vue";
+import LogoCurs from "./src/components/LogoCurs.vue";
 
 export const showcase2 = {
   install(Vue) {
-    Vue.component("PlatformEmblem", PlatformEmblem);
+    Vue.component("LogoCurs", LogoCurs);
   },
 };
 
-export default PlatformEmblem;
+export default LogoCurs;
