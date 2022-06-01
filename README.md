@@ -3,7 +3,7 @@
 
 ## Project setup
 ```
-npm install --legacy-peer-deps
+npm install
 ```
 
 ### Run your unit tests
