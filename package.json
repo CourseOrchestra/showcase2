@@ -1,13 +1,14 @@
 {
   "name": "showcase2",
   "author": "CourseIT",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "showcase2",
   "license": "GNU GENERAL PUBLIC LICENSE, Version 3",
   "repository": {
     "type": "git",
     "url": "https://github.com/CourseOrchestra/showcase2"
   },
+  "homepage": "https://CourseOrchestra.github.io/showcase2-demo",
   "scripts": {
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
