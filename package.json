@@ -1,7 +1,7 @@
 {
   "name": "showcase2",
   "author": "CourseIT",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "showcase2",
   "license": "GNU GENERAL PUBLIC LICENSE, Version 3",
   "repository": {
@@ -33,9 +33,9 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^9.1.0",
     "jest": "^28.1.1",
-    "lint-staged": "^13.0.0",
+    "lint-staged": "^13.0.1",
     "prettier": "^2.6.2",
-    "sass": "^1.52.2",
+    "sass": "^1.52.3",
     "sass-loader": "^13.0.0",
     "vue-cli-plugin-vuetify": "^2.5.1",
     "vue-template-compiler": "^2.6.14",
